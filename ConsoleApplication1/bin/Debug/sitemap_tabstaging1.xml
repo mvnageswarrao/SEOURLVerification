@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://tabstaging1.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://tabstaging1.villaplus.com/eurostretcher</loc>
+		<lastmod>2013-08-14</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://tabstaging1.villaplus.com/request-a-brochure</loc>
+		<lastmod>2013-08-14</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://tabstaging1.villaplus.com/contact-us</loc>
+		<lastmod>2013-08-14</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+</urlset>

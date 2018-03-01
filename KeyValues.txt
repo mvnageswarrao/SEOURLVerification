@@ -1,0 +1,6 @@
+5...<add key="PCIUrlCheckslog"  value="PCIUrlCheckslog" />
+4...<add key="PPlog"  value="ProductPageMissingImages"/>
+3...<add key="newUrlCheckslog" value="newURLsReport"/>
+2...<add key="GAlog"  value="GA_Report"/>
+1...<add key="logfilelocation"  value="resultFile"/>
+1...<add key="urlTitleMappingfile"  value="URL_Title_mtDesc_mtKeyw_12Aug.txt"/>

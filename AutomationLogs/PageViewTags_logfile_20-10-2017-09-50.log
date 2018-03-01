@@ -1,0 +1,11 @@
+URL	CreatePageViewTagsStatus	SetClientIDTagsStatus	Eluminate.js FileCheckStatus
+http://staging1.villaplus.com/		FAIL
+http://staging1.villaplus.com/atol-protected		FAIL
+http://staging1.villaplus.com/destinations		FAIL
+http://staging1.villaplus.com/algarve		FAIL
+http://staging1.villaplus.com/majorca		FAIL
+http://staging1.villaplus.com/menorca		FAIL
+http://staging1.villaplus.com/lanzarote		FAIL
+http://staging1.villaplus.com/fuerteventura		FAIL
+http://staging1.villaplus.com/tenerife		FAIL
+

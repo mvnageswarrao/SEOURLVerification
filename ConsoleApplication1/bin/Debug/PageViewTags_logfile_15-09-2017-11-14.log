@@ -1,0 +1,11 @@
+URL	CreatePageViewTagsStatus	SetClientIDTagsStatus	Eluminate.js FileCheckStatus
+http://staging1.villaplus.com/	cmCreatePageviewTag NOT PRESENT	cmSetClientID NOT PRESENT	eluminate.js NOT PRESENT		
+http://staging1.villaplus.com/atol-protected-abta-members	cmCreatePageviewTag NOT PRESENT	cmSetClientID NOT PRESENT	eluminate.js NOT PRESENT		
+http://staging1.villaplus.com/destinations	cmCreatePageviewTag NOT PRESENT	cmSetClientID NOT PRESENT	eluminate.js NOT PRESENT		
+http://staging1.villaplus.com/destinations/villas-in-portugal/algarve	cmCreatePageviewTag NOT PRESENT	cmSetClientID NOT PRESENT	eluminate.js NOT PRESENT		
+http://staging1.villaplus.com/destinations/villas-in-spain/villas-in-balearic-islands/majorca	cmCreatePageviewTag NOT PRESENT	cmSetClientID NOT PRESENT	eluminate.js NOT PRESENT		
+http://staging1.villaplus.com/destinations/villas-in-spain/villas-in-balearic-islands/menorca	cmCreatePageviewTag NOT PRESENT	cmSetClientID NOT PRESENT	eluminate.js NOT PRESENT		
+http://staging1.villaplus.com/destinations/villas-in-spain/villas-in-canary-islands/lanzarote	cmCreatePageviewTag NOT PRESENT	cmSetClientID NOT PRESENT	eluminate.js NOT PRESENT		
+http://staging1.villaplus.com/destinations/villas-in-spain/villas-in-canary-islands/fuerteventura	cmCreatePageviewTag NOT PRESENT	cmSetClientID NOT PRESENT	eluminate.js NOT PRESENT		
+http://staging1.villaplus.com/destinations/villas-in-spain/villas-in-canary-islands/tenerife	cmCreatePageviewTag NOT PRESENT	cmSetClientID NOT PRESENT	eluminate.js NOT PRESENT		
+
